@@ -1,2 +1,2 @@
 #!/bin/bash
-chown --refference=ollleh hello
+chown --refference = olleh hello
