@@ -1,3 +1,10 @@
-# 0-current_working_directory
+# Introduction
+task done by bash script
 
-script file print current working directory 
+## 0-current_working_directory
+
+script file   print current working directory (PWD)
+
+## 1-listit
+
+Display the contents list of your current directory. (ls)
